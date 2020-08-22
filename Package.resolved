@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "ISO639",
+        "repositoryURL": "https://github.com/SwiftPackageRepository/ISO639.swift.git",
+        "state": {
+          "branch": null,
+          "revision": "a3da484bc2db861a982e26a27220a3f9932435ff",
+          "version": "1.1.5"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
